@@ -1,0 +1,2 @@
+# Detecting-Spam-with-Spark
+This is about classification of e-mail messages as spam or non-spam in Spark. We will go through the whole process from loading and preprocessing to training and testing classifiers in a distributed way in Spark. We wil use the techniques shown in the lextures and labs. A few additional elements will be introduced here, such as the Natural Language ToolKit (NLTK) and some of the preprocessing and machine learning functions that come with Spark. 
